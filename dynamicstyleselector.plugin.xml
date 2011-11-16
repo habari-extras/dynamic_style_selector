@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <pluggable type="plugin">
 	<name>Dynamic style selector.</name>
-	<license>Squareweave Client License</license>
+	<license url="http://www.squareweave.com.au">Squareweave Client License</license>
 	
 	<author url="http://www.squareweave.com.au">Squareweave Pty Ltd</author>
 	
